@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm UDHAYA MOORTHY S J</h1>
 <h3 align="center">A Passionate Student</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on Embedded systems<br>🤝 I’m looking for help with Microprocessors and Embedded C<br>🌱 I’m currently learning Embedded software essentials<br>💬 Ask me about C programming
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udhaya-moorthy-277357259) 
 
